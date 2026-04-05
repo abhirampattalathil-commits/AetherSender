@@ -40,7 +40,7 @@ AetherSender is the sender application of the Smart Clock system. It runs on the
 
 🧠 Technical Highlights
 
-- Language: Java (Android SDK)
+- Language: Kotlin (Android SDK)
 - Communication: Bluetooth RFCOMM (SPP) with UUID-based pairing
 - Architecture: Client-side controller for data transmission
 - Data Handling: Efficient encoding for image transfer (Base64)
